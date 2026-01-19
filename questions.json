@@ -1,0 +1,72 @@
+[
+  {
+    "text": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Riyadh",
+      "Makkah",
+      "Dammam"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "When did Queen Elizabeth II pass away?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which continent is Saudi Arabia located in?",
+    "options": [
+      "Europe",
+      "Asia",
+      "Africa",
+      "Australia"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "Which programming language is commonly considered easy for beginners?",
+    "options": [
+      "Assembly",
+      "C++",
+      "Python",
+      "Machine Code"
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which data structure uses key-value pairs in Python?",
+    "options": [
+      "List",
+      "Tuple",
+      "Dictionary",
+      "Set"
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which symbol is used to define a function in Python?",
+    "options": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "answer": 3
+  },
+  {
+    "text": "Which loop is commonly used when the number of iterations is known?",
+    "options": [
+      "while",
+      "for",
+      "do-while",
+      "foreach"
+    ],
+    "answer": 2
+  }
+]
